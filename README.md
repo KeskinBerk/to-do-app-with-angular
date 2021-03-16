@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
-##Install npm packages
+## Install npm packages
 
 Install the `npm` packages described in the `package.json` and verify that it works: `npm install`, `npm start`
 
